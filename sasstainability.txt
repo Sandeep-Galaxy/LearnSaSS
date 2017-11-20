@@ -1,0 +1,5 @@
+Sasstainability
+
+Sass can be confusing if it's not organized correctly. In this unit, we will dive into the language's best practices.
+
+From file organization, to understanding when is best to include a mixin or extend a placeholder, we will learn about the methods that get the most out of Sass.

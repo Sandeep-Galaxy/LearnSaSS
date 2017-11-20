@@ -1,0 +1,9 @@
+Sass: Overview
+
+Let's get started! Sass has many perks that enable us to write succinct, readable code. In this lesson we will explore three concepts:
+
+    Variables
+    Mixins
+    Nests
+
+In the process, you'll use Sass to style your very own website for a lemonade stand.

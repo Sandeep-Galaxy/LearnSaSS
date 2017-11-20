@@ -1,0 +1,11 @@
+Generalizations
+
+    Functions in Sass allow for an easier way to style pages, work with colors, and iterate on DOM elements.
+
+    Having both for loops and each loops gives the programmer different formats to iterate on both lists and maps.
+
+    The introduction of conditional statements allows you to create logic-based styling rules using SCSS.
+
+There are other native Sass functions available to use, and you can even make your own custom functions if you have a good foundation in Ruby, check out more information here.
+
+Congrats! This lesson equipped you with new knowledge on some of the most popular functions and operations available to you in SCSS. Next, let's learn about the best practices for growing your Sass codebase.

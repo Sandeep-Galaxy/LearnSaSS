@@ -1,0 +1,3 @@
+Sass Structure
+
+We'll start with best practices for organizing files. As your web app or web page grows in complexity, so will the styles that go along with it. It's best to keep code organized.

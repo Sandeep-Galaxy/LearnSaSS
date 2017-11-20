@@ -1,0 +1,17 @@
+Arithmetic
+
+The Sass arithmetic operations are:
+
+    addition +
+    subtraction -
+    multiplication *
+    division /, and
+    modulo %.
+
+Note: Modulo, or %, is the remainder in a given division, so "9%2" would be "1".
+
+SCSS arithmetic requires that the units are compatible; for example, you can't multiply pixels by ems.
+
+Also, just like in regular math, multiplying two units together results in squared units:10px * 10px = 100px * px.
+
+Since there is no such thing as squared units in CSS, the above would throw an error. You would need to multiply 10px * 10 in order to obtain 100px.
